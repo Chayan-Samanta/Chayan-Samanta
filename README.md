@@ -1,7 +1,7 @@
 - Hi, I’m @Chayan-Samanta
 - I’m interested in Programing
 - I’m currently learning Python
-- I'm Learn Nest.Js 
+- I'm Learn Next.Js 
 
 <!---
 Chayan-Samanta/Chayan-Samanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
