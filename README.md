@@ -14,7 +14,7 @@
 
 > "Building the web, one line of code at a time."
 
-I'm a passionate junior developer on a journey to master web development. With a strong foundation in both frontend and backend technologies, I'm constantly pushing my boundaries and embracing new challenges. My approach combines creativity with technical precision, always aiming to create efficient and user-friendly solutions.
+I'm a passionate junior developer with a deep enthusiasm for crafting exceptional web experiences. My journey in web development is driven by a relentless curiosity and dedication to mastering both frontend and backend technologies. I thrive on solving complex problems and turning innovative ideas into reality through clean, efficient code. What sets me apart is my holistic approach to development - combining technical expertise with creative problem-solving to build intuitive, user-centric solutions. I'm particularly excited about modern web technologies and always eager to embrace new challenges that push my boundaries.
 
 Check out my portfolio at [portfoliochayan.netlify.app](https://portfoliochayan.netlify.app) to explore my development journey and projects.
 
@@ -67,7 +67,3 @@ const currentFocus = {
   <img src="https://komarev.com/ghpvc/?username=Chayan-Samanta&color=blueviolet&style=for-the-badge" alt="Profile views">
   <img src="https://img.shields.io/github/followers/Chayan-Samanta?style=for-the-badge&color=06d6a0" alt="GitHub Followers">
 </div>
-<!---
-Chayan-Samanta/Chayan-Samanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
