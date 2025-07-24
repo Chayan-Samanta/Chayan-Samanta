@@ -124,11 +124,11 @@ PHP                     ███████████████      75%
 
 ```javascript
 const project = {
-  name: "Fashion Retail E-Commerce",
-  tech_stack: ["React.js", "Tailwind CSS", "GSAP", "Framer Motion"],
+  name: "Fashione Ease | E-Commerce",
+  tech_stack: ["React.js", "Tailwind CSS", "GSAP", "Framer Motion"," Flask"],
   features: ["Full Stack Architecture", "Responsive Design", "Advanced Animations"],
   achievement: "🏆 Faculty Recognition: 'Very Good UI & Best Project'",
-  status: "Production Ready & Deployed"
+  status: "Production Ready & Deployed, Some Future Updates"
 };
 ```
 
@@ -140,11 +140,11 @@ const project = {
 - **Performance Optimized:** Fast loading & responsive design
 - **Live Demo:** [chayanportfoliosite.netlify.app](https://chayanportfoliosite.netlify.app/)
 
-### 📝 Task Management Suite
+### 📝 Task Management App
 **2024** | *Full Stack Web Application*
 
 - **Complete CRUD Operations** with React.js frontend
-- **Backend API Integration** 
+- **Backend API Integration with Flask** 
 - **State Management** best practices
 - **Modern UI Design** with Tailwind CSS
 
@@ -195,6 +195,7 @@ const project = {
 ```python
 learning_roadmap = {
     "immediate_goals": [
+        "Data Analyst",
         "Advanced Web Development Architecture",
         "Microservices with Node.js & Python",
         "Docker & Kubernetes",
@@ -237,7 +238,7 @@ learning_roadmap = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://chayanportfoliosite.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayan-samanta-687b85247)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chayan-Samanta)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayansamanta06@gmail.com)
 
 </div>
 
