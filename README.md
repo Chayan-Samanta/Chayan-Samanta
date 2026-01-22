@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chayan Samanta
-### `Python Developer & Web Developer`
+### `Software Developer`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web+Developer;Python+%26+JavaScript+Expert;UI%2FUX+Design+Enthusiast;Software+Development+Graduate)](https://git.io/typing-svg)
 
